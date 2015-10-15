@@ -1,0 +1,6 @@
+[submodule "web-client"]
+	path = web-client
+	url = https://github.com/Ponyshow/web-client.git
+[submodule "theme-appcelerator-training"]
+	path = theme-appcelerator-training
+	url = https://github.com/Ponyshow/theme-appcelerator-training.git
